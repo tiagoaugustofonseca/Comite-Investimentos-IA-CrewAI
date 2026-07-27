@@ -1,0 +1,21 @@
+# Variáveis de ambiente e segredos
+.env
+_env
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store

@@ -35,8 +35,8 @@ Os dois agentes são orquestrados pelo **CrewAI** em um processo sequencial (`Pr
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/tiagoaugustofonseca/comite-investimentos-ia.git
-cd comite-investimentos-ia
+git clone https://github.com/tiagoaugustofonseca/Comite-Investimentos-IA-CrewAI.git
+cd Comite-Investimentos-IA-CrewAI
 ```
 
 ### 2. Crie e ative um ambiente virtual
@@ -73,8 +73,6 @@ Você pode gerar uma chave gratuita em [Google AI Studio](https://aistudio.googl
 ```bash
 streamlit run main.py
 ```
-
-Acesse `http://localhost:8501` no navegador.
 
 ## Possíveis melhorias futuras
 
